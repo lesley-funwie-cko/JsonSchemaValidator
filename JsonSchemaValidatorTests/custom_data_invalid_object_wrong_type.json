@@ -1,0 +1,11 @@
+{
+    "string_data": "The unique identifier for a product",
+    "integer_data": 20,
+    "boolean_data": true,
+    "array_data": [ "hello", "hallo", "hola", "bonjour" ],
+    "object_data": {
+      "nested_string_data": "nested_string_data",
+      "nested_number_data": "wrong type",
+      "nested_integer_data": 40
+    }
+  }

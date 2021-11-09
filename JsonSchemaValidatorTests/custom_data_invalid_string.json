@@ -1,0 +1,11 @@
+{
+    "string_data": { "wrong_field": "wrong_value"},
+    "integer_data": 2,
+    "boolean_data": true,
+    "array_data": [ "hello", "hallo", "hola", "bonjour" ],
+    "object_data": {
+        "nested_string_data": "nested_string_data",
+        "nested_number_data": 100,
+        "nested_integer_data": 50
+      }
+  }
